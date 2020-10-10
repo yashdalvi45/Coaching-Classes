@@ -10,7 +10,7 @@ Copy the remaining code into your root directory, for xmapp it is htdocs.<BR>
 The database connection file is in the config folder.<br>
 All the backend files are in the controller folder.<br>
 
-##Password Reocvery System<br>
+##Password Recovery System<br>
 For password recovery phpmailer is used you have to configure sender's email and password in resetpswd file to send the emails.<br>
 
 <b>The default login ID:admin@gmail.com and password:admin@123</b><br>
